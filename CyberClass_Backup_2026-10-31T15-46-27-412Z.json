@@ -1,0 +1,432 @@
+{
+  "version": "4.0",
+  "settings": {
+    "audioMuted": false,
+    "activeSessionId": "ses_legacy_1793461249626",
+    "timezone": "America/Caracas",
+    "roster": [
+      "CALIZAYA ANTONIO JOSE CARLOS",
+      "CALLAU MOYE MARIA VICTORIA",
+      "CAYOJA CHALLAPA HAROLD JONATHAN",
+      "CRIALES CANASA RICARDO ALDO",
+      "LIMA POZO DAVID ALVARO",
+      "MADRIGAL QUISPE JOSE ANDRES",
+      "MAMANI CUBA ROMEL ALEJANDRO",
+      "MAMANI FUENTES DIVAR RENE",
+      "MAMANI JUAREZ GROVER",
+      "MAMANI LOPEZ ELMER GASTON",
+      "MANCILLA ROJAS GUISELA RENE",
+      "MONZON MARTINEZ REYNALDO",
+      "PACCI CUIZARA DANIEL",
+      "PAREJA VELARDE SERGIO RODRIGO",
+      "PEÑA CALLIZAYA RODY RONALD",
+      "QUISPE QUISPE JONATHAN JIMMY",
+      "SOLARES ARAMAYO RODRIGO POLY",
+      "VARGAS MURUCHI ANDRES PABLO",
+      "VELIZ CONDORI JOEL",
+      "VILLAN FLORES MERY LAURA",
+      "YUCRA MITA ALVARO ROGER"
+    ],
+    "course": {
+      "id": "crs_1793461249626",
+      "name": "Fundamentos de Marketing",
+      "month": "2026-10"
+    }
+  },
+  "students": [
+    {
+      "id": "est_1",
+      "code": "UPDS-EST-001",
+      "name": "CALIZAYA ANTONIO JOSE CARLOS",
+      "active": true
+    },
+    {
+      "id": "est_2",
+      "code": "UPDS-EST-002",
+      "name": "CALLAU MOYE MARIA VICTORIA",
+      "active": true
+    },
+    {
+      "id": "est_3",
+      "code": "UPDS-EST-003",
+      "name": "CAYOJA CHALLAPA HAROLD JONATHAN",
+      "active": true
+    },
+    {
+      "id": "est_4",
+      "code": "UPDS-EST-004",
+      "name": "CRIALES CANASA RICARDO ALDO",
+      "active": true
+    },
+    {
+      "id": "est_5",
+      "code": "UPDS-EST-005",
+      "name": "LIMA POZO DAVID ALVARO",
+      "active": true
+    },
+    {
+      "id": "est_6",
+      "code": "UPDS-EST-006",
+      "name": "MADRIGAL QUISPE JOSE ANDRES",
+      "active": true
+    },
+    {
+      "id": "est_7",
+      "code": "UPDS-EST-007",
+      "name": "MAMANI CUBA ROMEL ALEJANDRO",
+      "active": true
+    },
+    {
+      "id": "est_8",
+      "code": "UPDS-EST-008",
+      "name": "MAMANI FUENTES DIVAR RENE",
+      "active": true
+    },
+    {
+      "id": "est_9",
+      "code": "UPDS-EST-009",
+      "name": "MAMANI JUAREZ GROVER",
+      "active": true
+    },
+    {
+      "id": "est_10",
+      "code": "UPDS-EST-010",
+      "name": "MAMANI LOPEZ ELMER GASTON",
+      "active": true
+    },
+    {
+      "id": "est_11",
+      "code": "UPDS-EST-011",
+      "name": "MANCILLA ROJAS GUISELA RENE",
+      "active": true
+    },
+    {
+      "id": "est_12",
+      "code": "UPDS-EST-012",
+      "name": "MONZON MARTINEZ REYNALDO",
+      "active": true
+    },
+    {
+      "id": "est_13",
+      "code": "UPDS-EST-013",
+      "name": "PACCI CUIZARA DANIEL",
+      "active": true
+    },
+    {
+      "id": "est_14",
+      "code": "UPDS-EST-014",
+      "name": "PAREJA VELARDE SERGIO RODRIGO",
+      "active": true
+    },
+    {
+      "id": "est_15",
+      "code": "UPDS-EST-015",
+      "name": "PEÑA CALLIZAYA RODY RONALD",
+      "active": true
+    },
+    {
+      "id": "est_16",
+      "code": "UPDS-EST-016",
+      "name": "QUISPE QUISPE JONATHAN JIMMY",
+      "active": true
+    },
+    {
+      "id": "est_17",
+      "code": "UPDS-EST-017",
+      "name": "SOLARES ARAMAYO RODRIGO POLY",
+      "active": true
+    },
+    {
+      "id": "est_18",
+      "code": "UPDS-EST-018",
+      "name": "VARGAS MURUCHI ANDRES PABLO",
+      "active": true
+    },
+    {
+      "id": "est_19",
+      "code": "UPDS-EST-019",
+      "name": "VELIZ CONDORI JOEL",
+      "active": true
+    },
+    {
+      "id": "est_20",
+      "code": "UPDS-EST-020",
+      "name": "VILLAN FLORES MERY LAURA",
+      "active": true
+    },
+    {
+      "id": "est_21",
+      "code": "UPDS-EST-021",
+      "name": "YUCRA MITA ALVARO ROGER",
+      "active": true
+    }
+  ],
+  "sessions": [
+    {
+      "id": "ses_legacy_1793461249626",
+      "name": "Sesión 01 - Clase Universitaria",
+      "description": "Control de asistencia, dinámica de participación y trabajo en aula",
+      "date": "2026-10-31",
+      "startTime": "08:00",
+      "endTime": "10:15",
+      "status": "active",
+      "createdAt": "2026-10-31T15:40:49.626Z",
+      "closedAt": null
+    }
+  ],
+  "attendances": [
+    {
+      "id": "att_ses_legacy_1793461249626_est_1",
+      "sessionId": "ses_legacy_1793461249626",
+      "studentId": "est_1",
+      "status": "absent",
+      "timestamp": "2026-10-31T15:44:40.013Z",
+      "method": "system",
+      "corrected": false,
+      "correctionNote": "Alta automática en catálogo del curso"
+    },
+    {
+      "id": "att_ses_legacy_1793461249626_est_2",
+      "sessionId": "ses_legacy_1793461249626",
+      "studentId": "est_2",
+      "status": "absent",
+      "timestamp": "2026-10-31T15:44:40.013Z",
+      "method": "system",
+      "corrected": false,
+      "correctionNote": "Alta automática en catálogo del curso"
+    },
+    {
+      "id": "att_ses_legacy_1793461249626_est_3",
+      "sessionId": "ses_legacy_1793461249626",
+      "studentId": "est_3",
+      "status": "absent",
+      "timestamp": "2026-10-31T15:44:40.013Z",
+      "method": "system",
+      "corrected": false,
+      "correctionNote": "Alta automática en catálogo del curso"
+    },
+    {
+      "id": "att_ses_legacy_1793461249626_est_4",
+      "sessionId": "ses_legacy_1793461249626",
+      "studentId": "est_4",
+      "status": "absent",
+      "timestamp": "2026-10-31T15:44:40.013Z",
+      "method": "system",
+      "corrected": false,
+      "correctionNote": "Alta automática en catálogo del curso"
+    },
+    {
+      "id": "att_ses_legacy_1793461249626_est_5",
+      "sessionId": "ses_legacy_1793461249626",
+      "studentId": "est_5",
+      "status": "absent",
+      "timestamp": "2026-10-31T15:44:40.013Z",
+      "method": "system",
+      "corrected": false,
+      "correctionNote": "Alta automática en catálogo del curso"
+    },
+    {
+      "id": "att_ses_legacy_1793461249626_est_6",
+      "sessionId": "ses_legacy_1793461249626",
+      "studentId": "est_6",
+      "status": "absent",
+      "timestamp": "2026-10-31T15:44:40.013Z",
+      "method": "system",
+      "corrected": false,
+      "correctionNote": "Alta automática en catálogo del curso"
+    },
+    {
+      "id": "att_ses_legacy_1793461249626_est_7",
+      "sessionId": "ses_legacy_1793461249626",
+      "studentId": "est_7",
+      "status": "absent",
+      "timestamp": "2026-10-31T15:44:40.013Z",
+      "method": "system",
+      "corrected": false,
+      "correctionNote": "Alta automática en catálogo del curso"
+    },
+    {
+      "id": "att_ses_legacy_1793461249626_est_8",
+      "sessionId": "ses_legacy_1793461249626",
+      "studentId": "est_8",
+      "status": "absent",
+      "timestamp": "2026-10-31T15:44:40.013Z",
+      "method": "system",
+      "corrected": false,
+      "correctionNote": "Alta automática en catálogo del curso"
+    },
+    {
+      "id": "att_ses_legacy_1793461249626_est_9",
+      "sessionId": "ses_legacy_1793461249626",
+      "studentId": "est_9",
+      "status": "absent",
+      "timestamp": "2026-10-31T15:44:40.013Z",
+      "method": "system",
+      "corrected": false,
+      "correctionNote": "Alta automática en catálogo del curso"
+    },
+    {
+      "id": "att_ses_legacy_1793461249626_est_10",
+      "sessionId": "ses_legacy_1793461249626",
+      "studentId": "est_10",
+      "status": "absent",
+      "timestamp": "2026-10-31T15:44:40.013Z",
+      "method": "system",
+      "corrected": false,
+      "correctionNote": "Alta automática en catálogo del curso"
+    },
+    {
+      "id": "att_ses_legacy_1793461249626_est_11",
+      "sessionId": "ses_legacy_1793461249626",
+      "studentId": "est_11",
+      "status": "absent",
+      "timestamp": "2026-10-31T15:44:40.013Z",
+      "method": "system",
+      "corrected": false,
+      "correctionNote": "Alta automática en catálogo del curso"
+    },
+    {
+      "id": "att_ses_legacy_1793461249626_est_12",
+      "sessionId": "ses_legacy_1793461249626",
+      "studentId": "est_12",
+      "status": "absent",
+      "timestamp": "2026-10-31T15:44:40.013Z",
+      "method": "system",
+      "corrected": false,
+      "correctionNote": "Alta automática en catálogo del curso"
+    },
+    {
+      "id": "att_ses_legacy_1793461249626_est_13",
+      "sessionId": "ses_legacy_1793461249626",
+      "studentId": "est_13",
+      "status": "absent",
+      "timestamp": "2026-10-31T15:44:40.013Z",
+      "method": "system",
+      "corrected": false,
+      "correctionNote": "Alta automática en catálogo del curso"
+    },
+    {
+      "id": "att_ses_legacy_1793461249626_est_14",
+      "sessionId": "ses_legacy_1793461249626",
+      "studentId": "est_14",
+      "status": "absent",
+      "timestamp": "2026-10-31T15:44:40.013Z",
+      "method": "system",
+      "corrected": false,
+      "correctionNote": "Alta automática en catálogo del curso"
+    },
+    {
+      "id": "att_ses_legacy_1793461249626_est_15",
+      "sessionId": "ses_legacy_1793461249626",
+      "studentId": "est_15",
+      "status": "absent",
+      "timestamp": "2026-10-31T15:44:40.013Z",
+      "method": "system",
+      "corrected": false,
+      "correctionNote": "Alta automática en catálogo del curso"
+    },
+    {
+      "id": "att_ses_legacy_1793461249626_est_16",
+      "sessionId": "ses_legacy_1793461249626",
+      "studentId": "est_16",
+      "status": "absent",
+      "timestamp": "2026-10-31T15:44:40.013Z",
+      "method": "system",
+      "corrected": false,
+      "correctionNote": "Alta automática en catálogo del curso"
+    },
+    {
+      "id": "att_ses_legacy_1793461249626_est_17",
+      "sessionId": "ses_legacy_1793461249626",
+      "studentId": "est_17",
+      "status": "absent",
+      "timestamp": "2026-10-31T15:44:40.013Z",
+      "method": "system",
+      "corrected": false,
+      "correctionNote": "Alta automática en catálogo del curso"
+    },
+    {
+      "id": "att_ses_legacy_1793461249626_est_18",
+      "sessionId": "ses_legacy_1793461249626",
+      "studentId": "est_18",
+      "status": "absent",
+      "timestamp": "2026-10-31T15:44:40.013Z",
+      "method": "system",
+      "corrected": false,
+      "correctionNote": "Alta automática en catálogo del curso"
+    },
+    {
+      "id": "att_ses_legacy_1793461249626_est_19",
+      "sessionId": "ses_legacy_1793461249626",
+      "studentId": "est_19",
+      "status": "absent",
+      "timestamp": "2026-10-31T15:44:40.013Z",
+      "method": "system",
+      "corrected": false,
+      "correctionNote": "Alta automática en catálogo del curso"
+    },
+    {
+      "id": "att_ses_legacy_1793461249626_est_20",
+      "sessionId": "ses_legacy_1793461249626",
+      "studentId": "est_20",
+      "status": "absent",
+      "timestamp": "2026-10-31T15:44:40.013Z",
+      "method": "system",
+      "corrected": false,
+      "correctionNote": "Alta automática en catálogo del curso"
+    },
+    {
+      "id": "att_ses_legacy_1793461249626_est_21",
+      "sessionId": "ses_legacy_1793461249626",
+      "studentId": "est_21",
+      "status": "absent",
+      "timestamp": "2026-10-31T15:44:40.013Z",
+      "method": "system",
+      "corrected": false,
+      "correctionNote": "Alta automática en catálogo del curso"
+    }
+  ],
+  "auditLog": [
+    {
+      "id": "evt_1793461480015_luru",
+      "timestamp": "2026-10-31T15:44:40.015Z",
+      "type": "roster_updated",
+      "sessionId": "ses_legacy_1793461249626",
+      "studentId": null,
+      "details": "Lista de alumnos actualizada: +21 / -37 (total 21)"
+    },
+    {
+      "id": "evt_1793461480013_m439",
+      "timestamp": "2026-10-31T15:44:40.013Z",
+      "type": "students_sync",
+      "sessionId": "ses_legacy_1793461249626",
+      "studentId": null,
+      "details": "Sincronización oficial: Catálogo actualizado con 21 estudiantes y códigos canónicos (UPDS-EST-001 al 021)."
+    },
+    {
+      "id": "evt_1793461249629_xuwb",
+      "timestamp": "2026-10-31T15:40:49.629Z",
+      "type": "students_sync",
+      "sessionId": "ses_legacy_1793461249626",
+      "studentId": null,
+      "details": "Sincronización oficial: Catálogo actualizado con 37 estudiantes y códigos canónicos (UPDS-EST-001 al 037)."
+    },
+    {
+      "id": "evt_1793461249626_i287",
+      "timestamp": "2026-10-31T15:40:49.626Z",
+      "type": "system_migration",
+      "sessionId": "ses_legacy_1793461249626",
+      "studentId": null,
+      "details": "Migración transparente desde esquema v3 completada sin pérdida"
+    }
+  ],
+  "participationHistory": [],
+  "groups": [],
+  "presentationOrder": {
+    "sessionId": null,
+    "generatedAt": null,
+    "selectedStudentIds": [],
+    "items": []
+  },
+  "courseLibrary": []
+}
